@@ -1,0 +1,3 @@
+testcaseid,description,keywords,remarks
+TC001,Signup to bikroy application,navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,
+TC002,Logut from the application,navigateToDashboard;navigateToSettings;logout;verifyLogout,
