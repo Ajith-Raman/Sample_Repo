@@ -1,0 +1,1055 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+2018/10/23 17:49:13.799,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20563,0,1,1,0,0,0
+2018/10/23 17:49:13.891,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20563,0,2,2,0,0,0
+2018/10/23 17:49:13.992,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20562,0,3,3,0,0,0
+2018/10/23 17:49:14.093,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20563,0,4,4,0,0,0
+2018/10/23 17:49:14.203,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20562,0,5,5,0,0,0
+2018/10/23 17:49:14.293,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20563,0,6,6,0,0,0
+2018/10/23 17:49:14.392,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-7,text,true,,20563,0,7,7,0,0,0
+2018/10/23 17:49:14.493,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-8,text,true,,20563,0,8,8,0,0,0
+2018/10/23 17:49:14.592,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20563,0,9,9,0,0,0
+2018/10/23 17:49:14.694,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20563,0,10,10,0,0,0
+2018/10/23 17:49:14.204,1063,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,5,0
+2018/10/23 17:49:13.802,1527,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,69,0
+2018/10/23 17:49:14.293,1139,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,3,0
+2018/10/23 17:49:13.993,1511,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,3,0
+2018/10/23 17:49:14.094,1413,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,3,0
+2018/10/23 17:49:14.393,1275,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:13.892,1781,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:14.493,1182,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:49:14.592,1161,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:14.695,1346,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:15.510,836,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,69637,399,10,10,0,2,0
+2018/10/23 17:49:15.674,700,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69639,399,10,10,0,0,0
+2018/10/23 17:49:15.678,714,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,69643,399,10,10,0,1,0
+2018/10/23 17:49:15.272,1222,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69641,399,10,10,0,2,0
+2018/10/23 17:49:15.508,1057,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69645,399,10,10,0,1,0
+2018/10/23 17:49:16.393,828,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21105,574,10,10,0,2,0
+2018/10/23 17:49:15.436,1820,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69639,399,10,10,0,1,0
+2018/10/23 17:49:16.348,916,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,568,10,10,0,2,0
+2018/10/23 17:49:16.042,1234,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69637,399,10,10,0,1,0
+2018/10/23 17:49:16.567,716,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,576,10,10,0,0,0
+2018/10/23 17:49:15.399,1898,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69639,399,10,10,0,1,0
+2018/10/23 17:49:15.755,1863,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69641,399,10,10,0,1,0
+2018/10/23 17:49:15.670,1967,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,69639,399,10,10,0,0,0
+2018/10/23 17:49:16.496,1171,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,572,10,10,0,2,0
+2018/10/23 17:49:16.375,1302,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:49:17.224,827,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12392,588,10,10,0,1,0
+2018/10/23 17:49:17.267,900,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:49:17.284,897,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,590,10,10,0,1,0
+2018/10/23 17:49:17.278,917,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,568,10,10,0,2,0
+2018/10/23 17:49:17.258,983,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:49:17.299,990,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:49:18.197,456,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:49:17.679,1007,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:49:17.670,1078,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,586,10,10,0,1,0
+2018/10/23 17:49:17.638,1158,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21105,570,10,10,0,2,0
+2018/10/23 17:49:17.620,1410,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,572,10,10,0,1,0
+2018/10/23 17:49:18.168,1001,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:49:18.654,520,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:49:18.290,910,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:49:18.053,1164,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,11959,608,10,10,0,1,0
+2018/10/23 17:49:18.183,1046,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,610,10,10,0,1,0
+2018/10/23 17:49:18.687,992,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:49:19.032,656,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:49:18.798,917,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:49:18.242,1485,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:49:18.750,982,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:49:19.174,972,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:49:19.170,992,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:49:19.679,491,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,605,10,10,0,2,0
+2018/10/23 17:49:19.202,1001,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:49:19.218,1000,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12346,609,10,10,0,1,0
+2018/10/23 17:49:19.716,966,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:49:20.163,536,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:49:20.700,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:19.728,992,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:49:19.689,1034,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,606,10,10,0,1,0
+2018/10/23 17:49:19.230,1497,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,611,10,10,0,1,0
+2018/10/23 17:49:20.204,975,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:49:20.147,1048,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,824,10,10,0,1,0
+2018/10/23 17:49:21.196,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:49:20.172,1038,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:49:21.211,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:19.732,1485,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:49:20.721,515,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:49:20.683,984,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:49:20.219,1483,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12645,830,10,10,0,2,0
+2018/10/23 17:49:21.704,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:21.218,665,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:49:21.884,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-5,text,true,,20518,0,10,10,0,0,0
+2018/10/23 17:49:21.180,778,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:21.959,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-1,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:20.728,1470,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,832,10,10,0,0,0
+2018/10/23 17:49:20.724,1474,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:49:22.199,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20518,0,10,10,0,0,0
+2018/10/23 17:49:21.238,994,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:22.232,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:21.668,591,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:22.260,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:21.198,1521,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:22.199,1022,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:49:23.221,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:22.204,1472,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:21.885,1802,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12988,1068,10,10,0,2,0
+2018/10/23 17:49:21.213,2505,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:20.703,3175,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:21.960,2210,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:23.223,1137,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:21.705,2975,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,2,0
+2018/10/23 17:49:22.261,2444,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:22.719,2004,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:22.235,2493,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:23.677,1491,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:23.719,1556,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:23.689,1985,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:23.879,1828,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:25.169,943,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:49:24.361,1855,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:24.706,1996,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:24.682,2037,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:24.171,2560,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:25.275,1815,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:49:24.728,2432,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:24.725,2486,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22314,1115,10,10,0,0,0
+2018/10/23 17:49:26.113,1129,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:49:27.242,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20632,0,10,10,0,0,0
+2018/10/23 17:49:27.092,637,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,606,10,10,0,1,0
+2018/10/23 17:49:27.731,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:25.675,2316,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:49:26.719,1401,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22326,1121,10,10,0,1,0
+2018/10/23 17:49:26.703,1486,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22314,1115,10,10,0,2,0
+2018/10/23 17:49:26.217,2012,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:49:25.707,2817,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22326,1121,10,10,0,2,0
+2018/10/23 17:49:27.732,846,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:27.212,1524,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,606,10,10,0,1,0
+2018/10/23 17:49:28.738,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:49:28.122,627,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:49:28.750,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:28.192,561,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,606,10,10,0,1,0
+2018/10/23 17:49:28.754,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-7,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:27.244,1777,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:28.230,891,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:29.122,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:27.992,1192,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21133,610,10,10,0,2,0
+2018/10/23 17:49:29.186,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20632,0,10,10,0,0,0
+2018/10/23 17:49:26.733,2462,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:49:28.527,761,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,612,10,10,0,1,0
+2018/10/23 17:49:29.289,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:28.579,1069,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69819,399,10,10,0,0,0
+2018/10/23 17:49:29.187,500,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:29.196,501,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:49:29.698,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-1,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:28.755,963,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:27.162,2566,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22322,1119,10,10,0,-1,0
+2018/10/23 17:49:29.648,567,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,578,10,10,0,1,0
+2018/10/23 17:49:29.728,979,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,610,10,10,0,2,0
+2018/10/23 17:49:30.709,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:29.291,1445,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:49:29.023,1786,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69284,399,10,10,0,1,0
+2018/10/23 17:49:28.750,2099,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:28.740,2130,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:29.688,1460,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69284,399,10,10,0,2,0
+2018/10/23 17:49:29.699,1457,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:29.123,2068,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:29.719,1474,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,69497,399,10,10,0,2,0
+2018/10/23 17:49:30.217,999,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,592,10,10,0,1,0
+2018/10/23 17:49:30.810,456,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:49:31.150,545,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,572,10,10,0,1,0
+2018/10/23 17:49:31.158,1001,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:30.711,1461,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:30.738,1447,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,69497,399,10,10,0,1,0
+2018/10/23 17:49:31.217,984,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,612,10,10,0,1,0
+2018/10/23 17:49:31.195,1055,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:49:30.871,1804,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:32.202,479,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,613,10,10,0,1,0
+2018/10/23 17:49:31.696,1022,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:49:31.266,1456,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,586,10,10,0,1,0
+2018/10/23 17:49:32.186,982,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:49:31.192,1985,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,2,0
+2018/10/23 17:49:32.250,975,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:49:32.173,1483,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,2,0
+2018/10/23 17:49:32.717,1020,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:49:30.850,2937,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,2,0
+2018/10/23 17:49:32.681,1137,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,834,10,10,0,0,0
+2018/10/23 17:49:33.818,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:32.723,1501,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,606,10,10,0,1,0
+2018/10/23 17:49:33.168,1090,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:49:32.160,2108,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,22322,1119,10,10,0,2,0
+2018/10/23 17:49:33.737,975,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:49:33.226,1512,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:49:32.674,2092,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:49:34.225,553,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,607,10,10,0,0,0
+2018/10/23 17:49:34.259,697,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,604,10,10,0,2,0
+2018/10/23 17:49:33.178,1993,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:49:33.657,1564,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:49:33.788,1455,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:49:33.820,1495,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:34.713,823,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,828,10,10,0,1,0
+2018/10/23 17:49:35.537,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:49:34.958,699,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:49:34.778,1006,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,828,10,10,0,1,0
+2018/10/23 17:49:35.785,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:49:35.171,616,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:35.789,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:35.223,763,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:35.986,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:34.269,1752,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:36.022,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:34.739,1472,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:49:34.767,1455,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:36.223,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:49:35.788,892,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:49:35.658,1047,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:36.705,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:35.244,1502,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:36.746,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:36.224,530,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:49:35.317,1924,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:36.211,1192,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12645,826,10,10,0,2,0
+2018/10/23 17:49:37.406,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-7,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:49:36.023,1484,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:49:35.539,1993,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:35.790,1860,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:37.407,760,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:35.989,2249,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:37.510,1172,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69135,399,10,10,0,0,0
+2018/10/23 17:49:36.680,2021,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69135,399,10,10,0,1,0
+2018/10/23 17:49:36.707,2035,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,-1,0
+2018/10/23 17:49:37.534,1218,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69133,399,10,10,0,1,0
+2018/10/23 17:49:36.748,2010,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,-1,0
+2018/10/23 17:49:37.242,1553,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22318,1117,10,10,0,-1,0
+2018/10/23 17:49:36.754,2262,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69137,399,10,10,0,1,0
+2018/10/23 17:49:38.240,915,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:37.652,1572,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:38.168,1161,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,69135,399,10,10,0,0,0
+2018/10/23 17:49:38.703,1024,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:49:38.682,1058,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,572,10,10,0,2,0
+2018/10/23 17:49:38.753,991,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:49:39.018,727,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,574,10,10,0,0,0
+2018/10/23 17:49:39.727,443,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,586,10,10,0,1,0
+2018/10/23 17:49:39.745,456,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,584,10,10,0,2,0
+2018/10/23 17:49:38.796,1443,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:40.239,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:39.742,933,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,586,10,10,0,1,0
+2018/10/23 17:49:38.742,1963,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:39.156,1557,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:49:39.329,1394,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21105,572,10,10,0,2,0
+2018/10/23 17:49:40.676,394,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,606,10,10,0,1,0
+2018/10/23 17:49:40.714,499,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:41.213,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:39.745,1472,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,588,10,10,0,0,0
+2018/10/23 17:49:40.171,1053,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,606,10,10,0,1,0
+2018/10/23 17:49:41.071,598,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,607,10,10,0,0,0
+2018/10/23 17:49:40.725,948,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:49:38.758,2940,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:40.203,1515,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:49:40.241,1579,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:40.706,1486,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:49:41.226,971,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:49:41.669,539,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,828,10,10,0,1,0
+2018/10/23 17:49:42.210,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-1,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:41.214,1019,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:49:41.217,1111,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,608,10,10,0,1,0
+2018/10/23 17:49:41.673,992,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:49:41.719,993,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:49:42.193,594,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:42.788,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:41.821,1070,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69717,399,10,10,0,1,0
+2018/10/23 17:49:42.329,836,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,609,10,10,0,0,0
+2018/10/23 17:49:41.700,1493,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:49:42.198,1147,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:49:43.345,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:49:42.235,1182,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69721,399,10,10,0,2,0
+2018/10/23 17:49:42.665,999,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:49:42.211,1567,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:43.347,520,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:42.713,1483,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:44.197,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-5,text,true,,20518,0,10,10,0,0,0
+2018/10/23 17:49:42.892,1307,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:49:43.166,1059,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,830,10,10,0,1,0
+2018/10/23 17:49:44.226,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:49:43.778,815,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:43.419,1265,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:49:43.194,1499,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:44.693,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-8,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:44.227,838,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:39.225,5961,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:49:43.666,1554,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12645,828,10,10,0,1,0
+2018/10/23 17:49:45.221,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:42.789,2880,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:45.187,535,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:49:45.723,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:44.199,1968,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:49:44.694,1483,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:44.684,1527,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,586,10,10,0,1,0
+2018/10/23 17:49:43.868,2392,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,70141,399,10,10,0,0,0
+2018/10/23 17:49:44.197,2120,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:45.724,785,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:46.168,557,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:49:46.261,482,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:49:45.066,1747,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,70141,399,10,10,0,0,0
+2018/10/23 17:49:46.178,1120,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,70139,399,10,10,0,1,0
+2018/10/23 17:49:46.744,942,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:49:44.593,3150,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,22318,1117,10,10,0,2,0
+2018/10/23 17:49:46.212,1548,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,606,10,10,0,1,0
+2018/10/23 17:49:46.725,1042,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:49:46.813,972,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:49:46.318,1606,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:45.222,2890,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:47.686,468,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:49:45.670,2494,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:47.299,1221,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:49:47.761,889,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,607,10,10,0,0,0
+2018/10/23 17:49:47.769,921,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,824,10,10,0,1,0
+2018/10/23 17:49:48.691,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:49:47.745,1000,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:49:48.746,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:46.509,2238,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,2,0
+2018/10/23 17:49:47.787,1383,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:49:48.520,653,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:49:48.156,1046,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:49:48.692,516,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:49:48.112,1564,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:47.924,1814,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:49:48.651,1097,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:49:49.748,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:49.202,985,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:50.188,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:49:48.165,2033,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:49:49.174,1044,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,11959,602,10,10,0,2,0
+2018/10/23 17:49:48.747,1824,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:49.739,937,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21133,610,10,10,0,2,0
+2018/10/23 17:49:50.678,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-5,text,true,,20524,0,10,10,0,0,0
+2018/10/23 17:49:48.749,1938,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:49:50.199,511,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,610,10,10,0,0,0
+2018/10/23 17:49:50.711,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:49.171,1553,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:49:50.220,939,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:49:50.725,461,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:49:49.208,2005,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69745,399,10,10,0,2,0
+2018/10/23 17:49:50.188,1064,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:49:49.750,1913,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:49.677,2105,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22322,1119,10,10,0,2,0
+2018/10/23 17:49:50.572,1580,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69749,399,10,10,0,1,0
+2018/10/23 17:49:51.215,956,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:49:50.687,1574,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:52.263,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:50.711,1935,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:51.253,1407,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69747,399,10,10,0,2,0
+2018/10/23 17:49:51.784,917,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:52.702,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-7,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:51.186,1548,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,826,10,10,0,2,0
+2018/10/23 17:49:52.736,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:49:52.153,602,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,574,10,10,0,0,0
+2018/10/23 17:49:51.160,1607,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:49:52.768,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:52.173,985,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:49:50.679,2482,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:52.662,585,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:49:52.756,491,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,588,10,10,0,1,0
+2018/10/23 17:49:53.248,460,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,586,10,10,0,2,0
+2018/10/23 17:49:51.664,2255,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:53.159,780,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:49:52.703,1477,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:49:52.738,1472,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:49:52.264,2013,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:52.647,1635,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:53.710,960,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:49:53.248,1442,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,608,10,10,0,0,0
+2018/10/23 17:49:52.769,1995,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:49:54.210,707,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69590,399,10,10,0,1,0
+2018/10/23 17:49:53.940,1270,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:49:54.181,1093,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,69584,399,10,10,0,1,0
+2018/10/23 17:49:55.275,447,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:49:54.691,1032,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,609,10,10,0,1,0
+2018/10/23 17:49:53.163,2580,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:55.722,402,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:49:54.918,1253,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,574,10,10,0,1,0
+2018/10/23 17:49:54.671,1642,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:49:53.920,2570,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:49:54.277,2391,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:49:56.125,590,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:49:55.724,1098,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,830,10,10,0,0,0
+2018/10/23 17:49:56.822,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-1,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:54.283,2909,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:49:55.210,1987,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:49:57.197,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:49:56.172,1491,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,588,10,10,0,2,0
+2018/10/23 17:49:54.765,2915,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:49:57.198,497,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:49:57.666,459,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,608,10,10,0,0,0
+2018/10/23 17:49:56.314,1862,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,828,10,10,0,1,0
+2018/10/23 17:49:58.178,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20518,0,10,10,0,0,0
+2018/10/23 17:49:56.491,1699,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:49:58.192,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:58.192,415,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:49:56.716,1959,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:49:56.669,2440,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22326,1121,10,10,0,0,0
+2018/10/23 17:49:55.744,3431,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,22314,1115,10,10,0,-1,0
+2018/10/23 17:49:57.192,1995,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:49:59.189,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:49:59.111,473,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:49:59.585,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:49:58.125,1567,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,609,10,10,0,1,0
+2018/10/23 17:49:58.609,1111,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69893,399,10,10,0,0,0
+2018/10/23 17:49:57.698,2171,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69895,399,10,10,0,0,0
+2018/10/23 17:49:59.586,443,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:49:56.823,3352,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:59.190,1026,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,2,0
+2018/10/23 17:49:59.720,512,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:49:59.175,1531,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:00.706,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20632,0,10,10,0,0,0
+2018/10/23 17:49:59.693,1024,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,830,10,10,0,0,0
+2018/10/23 17:50:00.718,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:49:58.677,2042,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:00.719,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:49:57.681,3053,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:50:00.232,936,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:00.030,1160,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69891,399,10,10,0,0,0
+2018/10/23 17:49:58.180,3041,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:49:59.869,1376,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,572,10,10,0,1,0
+2018/10/23 17:50:00.176,1495,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:00.709,1005,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:50:00.218,1500,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:00.718,1003,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:00.735,1048,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:01.784,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:01.190,977,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,568,10,10,0,1,0
+2018/10/23 17:50:01.169,1087,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:01.246,1031,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:50:00.721,1959,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:02.278,597,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:50:01.718,1540,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22326,1121,10,10,0,0,0
+2018/10/23 17:50:01.722,1575,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69628,399,10,10,0,0,0
+2018/10/23 17:50:01.716,1932,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69626,399,10,10,0,0,0
+2018/10/23 17:50:02.168,1494,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:01.221,2445,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:02.256,1420,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:01.785,1939,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:02.875,863,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,607,10,10,0,0,0
+2018/10/23 17:50:03.258,764,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,612,10,10,0,1,0
+2018/10/23 17:50:04.023,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:02.681,1527,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:01.671,2553,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:50:03.649,582,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:03.297,1001,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:04.025,687,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:03.738,982,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:50:04.720,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:03.662,1199,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,602,10,10,0,2,0
+2018/10/23 17:50:04.225,977,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:05.203,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:03.667,1582,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:50:04.231,1055,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:03.677,1690,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:05.367,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:03.724,2021,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:04.298,1451,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:04.209,1558,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:50:05.249,548,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:50:05.798,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20632,0,10,10,0,0,0
+2018/10/23 17:50:04.712,1166,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,69626,399,10,10,0,1,0
+2018/10/23 17:50:04.721,1433,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:05.205,985,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:04.863,1348,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:05.286,935,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:50:06.221,461,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:50:05.750,960,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:06.211,556,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:06.768,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:06.711,444,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:06.683,507,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:07.190,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:50:05.799,1432,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:05.768,1466,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:50:07.235,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-7,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:05.745,1943,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22314,1115,10,10,0,0,0
+2018/10/23 17:50:07.235,460,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:06.155,1554,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:05.879,1864,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:05.368,2550,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:07.688,511,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:08.199,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:06.191,2069,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69740,399,10,10,0,1,0
+2018/10/23 17:50:07.231,1063,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69740,399,10,10,0,2,0
+2018/10/23 17:50:07.744,949,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:50:07.156,1561,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:08.718,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:07.192,1562,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:06.769,2380,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:07.697,1498,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,69738,399,10,10,0,0,0
+2018/10/23 17:50:07.710,1489,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22326,1121,10,10,0,1,0
+2018/10/23 17:50:07.919,1302,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:08.261,967,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:08.694,953,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:50:08.296,1407,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:09.196,519,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:09.228,573,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:08.201,1975,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:09.200,982,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:50:10.182,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:08.755,1453,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69547,399,10,10,0,1,0
+2018/10/23 17:50:09.716,497,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:09.801,779,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:09.648,1065,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:09.703,1025,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:08.718,2034,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,2,0
+2018/10/23 17:50:09.221,1549,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22326,1121,10,10,0,0,0
+2018/10/23 17:50:10.213,751,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:50:10.209,986,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,576,10,10,0,1,0
+2018/10/23 17:50:10.729,472,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:50:09.150,2526,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:10.965,737,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:10.714,1018,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:11.732,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:50:10.580,1584,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:10.770,1398,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:50:12.168,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:10.176,2006,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:11.202,1014,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:11.733,528,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:10.184,2472,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:11.196,1477,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,590,10,10,0,0,0
+2018/10/23 17:50:12.164,569,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:50:12.734,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:50:10.754,2042,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:11.702,1376,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:13.078,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:12.674,550,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,610,10,10,0,0,0
+2018/10/23 17:50:11.676,2017,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:50:12.216,1512,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:13.729,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:50:12.261,1611,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,70033,399,10,10,0,0,0
+2018/10/23 17:50:12.735,1139,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:12.183,1743,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:12.169,1997,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:13.224,954,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,611,10,10,0,0,0
+2018/10/23 17:50:13.732,482,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:13.694,978,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:50:14.672,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:12.656,2027,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:13.926,830,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:14.757,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-8,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:13.872,963,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:13.875,1337,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,70031,399,10,10,0,0,0
+2018/10/23 17:50:14.758,465,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:14.178,1045,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,832,10,10,0,0,0
+2018/10/23 17:50:15.223,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:50:12.796,2430,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:50:14.836,815,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,584,10,10,0,2,0
+2018/10/23 17:50:14.675,1000,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:13.080,2697,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:14.214,1651,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,70029,399,10,10,0,1,0
+2018/10/23 17:50:15.653,525,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:15.212,975,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:15.227,965,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:50:16.194,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:14.167,2099,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:15.223,1227,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,70029,399,10,10,0,0,0
+2018/10/23 17:50:15.866,888,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:16.187,592,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:14.684,2187,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:16.178,1024,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:16.450,787,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:15.225,2276,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:16.754,949,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,584,10,10,0,2,0
+2018/10/23 17:50:15.777,1934,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:15.676,2042,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:16.871,989,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:17.862,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:16.780,1084,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:50:16.195,1974,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,-1,0
+2018/10/23 17:50:16.266,1945,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:50:17.203,1105,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:18.310,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:17.864,844,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:17.238,1474,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:17.706,1020,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:50:17.503,1261,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69593,399,10,10,0,1,0
+2018/10/23 17:50:17.866,1354,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:17.719,1525,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:50:18.708,589,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69593,399,10,10,0,2,0
+2018/10/23 17:50:18.765,907,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:18.727,946,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:18.213,1504,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:19.717,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:18.169,1555,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:17.713,2016,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22314,1115,10,10,0,0,0
+2018/10/23 17:50:19.729,466,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,606,10,10,0,1,0
+2018/10/23 17:50:20.197,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-7,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:19.220,978,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,824,10,10,0,1,0
+2018/10/23 17:50:20.199,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-1,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:18.713,1512,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:50:18.310,1917,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:20.197,480,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:19.246,1477,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,606,10,10,0,1,0
+2018/10/23 17:50:20.724,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:19.673,1067,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:20.740,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20518,0,10,10,0,0,0
+2018/10/23 17:50:19.299,1442,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:20.200,956,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:19.673,1563,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:19.719,1516,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:50:20.725,530,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:21.236,420,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:20.677,993,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,69597,399,10,10,0,1,0
+2018/10/23 17:50:19.724,1992,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:20.226,1507,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:20.742,1433,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:20.742,1592,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:21.257,1393,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69591,399,10,10,0,0,0
+2018/10/23 17:50:21.716,957,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:22.673,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:21.672,1012,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21105,574,10,10,0,1,0
+2018/10/23 17:50:21.657,1037,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:21.734,1010,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12645,826,10,10,0,2,0
+2018/10/23 17:50:22.745,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:21.237,1527,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69597,399,10,10,0,1,0
+2018/10/23 17:50:20.228,2545,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:22.764,423,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,574,10,10,0,2,0
+2018/10/23 17:50:21.157,2053,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:22.693,850,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:50:23.544,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20626,0,10,10,0,0,0
+2018/10/23 17:50:23.189,485,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,588,10,10,0,0,0
+2018/10/23 17:50:22.684,1048,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12392,588,10,10,0,0,0
+2018/10/23 17:50:22.649,1089,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,568,10,10,0,1,0
+2018/10/23 17:50:22.333,1436,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,604,10,10,0,2,0
+2018/10/23 17:50:23.546,641,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:23.209,980,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:50:23.771,894,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:23.732,935,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,11959,608,10,10,0,0,0
+2018/10/23 17:50:22.176,2531,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,2,0
+2018/10/23 17:50:23.674,1053,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,608,10,10,0,0,0
+2018/10/23 17:50:22.747,2001,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:24.187,650,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69713,399,10,10,0,1,0
+2018/10/23 17:50:24.190,716,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:24.907,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:22.773,2296,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:50:23.739,1465,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:50:22.674,2547,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:24.727,961,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,609,10,10,0,1,0
+2018/10/23 17:50:24.838,867,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:24.668,1041,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12346,609,10,10,0,0,0
+2018/10/23 17:50:24.666,1163,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:25.829,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:24.749,1423,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:25.069,1123,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:50:26.194,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:25.205,1009,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:50:24.908,1334,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:24.708,1804,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:25.706,959,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:25.831,848,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:25.709,1101,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12645,830,10,10,0,1,0
+2018/10/23 17:50:26.812,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:25.689,1189,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,830,10,10,0,1,0
+2018/10/23 17:50:26.879,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:25.222,1690,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:26.215,942,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:26.880,798,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:26.666,1060,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:50:26.512,1220,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,610,10,10,0,2,0
+2018/10/23 17:50:27.735,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:26.680,1465,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69716,399,10,10,0,1,0
+2018/10/23 17:50:27.157,1011,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,824,10,10,0,2,0
+2018/10/23 17:50:28.171,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-9,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:26.243,1966,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69366,399,10,10,0,0,0
+2018/10/23 17:50:26.172,2075,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:26.912,1800,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22326,1121,10,10,0,-1,0
+2018/10/23 17:50:26.812,1905,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,-1,0
+2018/10/23 17:50:26.196,2529,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:27.680,1175,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69366,399,10,10,0,0,0
+2018/10/23 17:50:27.727,1500,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:27.736,1493,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:28.855,487,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:28.147,1263,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,568,10,10,0,1,0
+2018/10/23 17:50:28.717,995,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:28.210,1518,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:28.249,1706,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,610,10,10,0,0,0
+2018/10/23 17:50:29.955,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-8,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:28.712,1440,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:50:30.152,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20527,0,10,10,0,0,0
+2018/10/23 17:50:29.229,1472,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69362,399,10,10,0,0,0
+2018/10/23 17:50:29.227,1508,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,824,10,10,0,1,0
+2018/10/23 17:50:30.736,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-5,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:28.726,2041,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:29.411,1847,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:29.342,1918,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:30.768,902,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22326,1121,10,10,0,1,0
+2018/10/23 17:50:31.258,414,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,602,10,10,0,2,0
+2018/10/23 17:50:29.729,1983,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:28.174,3575,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:29.957,2026,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:31.712,444,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:29.714,2466,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22330,1123,10,10,0,1,0
+2018/10/23 17:50:30.154,2513,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:30.701,2036,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:31.261,1479,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:31.671,1089,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:50:32.761,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:32.741,426,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:31.674,1536,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:31.984,1226,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,69552,399,10,10,0,0,0
+2018/10/23 17:50:31.749,1905,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:32.738,933,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:32.157,1552,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:32.181,1555,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,614,10,10,0,1,0
+2018/10/23 17:50:33.737,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:33.672,491,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:50:33.210,982,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21105,574,10,10,0,2,0
+2018/10/23 17:50:30.738,3462,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:32.764,1468,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:32.668,2004,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:33.710,968,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:34.678,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:33.210,1548,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:34.758,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:34.163,596,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:50:33.167,1702,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:34.870,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:34.194,975,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12392,588,10,10,0,0,0
+2018/10/23 17:50:34.680,505,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:33.655,1584,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:34.232,1169,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,69548,399,10,10,0,0,0
+2018/10/23 17:50:35.169,537,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,11959,608,10,10,0,0,0
+2018/10/23 17:50:34.760,1037,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:35.797,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20519,0,10,10,0,0,0
+2018/10/23 17:50:34.759,1412,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:35.401,770,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:35.240,937,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21133,610,10,10,0,0,0
+2018/10/23 17:50:36.177,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:34.871,1362,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:33.737,2528,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:34.200,2477,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:34.674,2013,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:50:35.706,1022,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12346,609,10,10,0,0,0
+2018/10/23 17:50:36.234,648,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69550,399,10,10,0,1,0
+2018/10/23 17:50:35.186,1705,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69548,399,10,10,0,1,0
+2018/10/23 17:50:36.883,458,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,572,10,10,0,1,0
+2018/10/23 17:50:36.172,1503,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:36.178,1509,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:50:36.171,1536,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:35.799,1952,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:36.266,1894,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:36.687,1490,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:50:38.177,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20635,0,10,10,0,0,0
+2018/10/23 17:50:36.728,1487,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12645,830,10,10,0,0,0
+2018/10/23 17:50:38.215,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:37.342,886,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:50:36.892,1785,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:38.228,508,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,606,10,10,0,1,0
+2018/10/23 17:50:38.178,566,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:50:38.160,1064,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:50:37.675,1558,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:38.677,568,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:37.689,1915,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69561,399,10,10,0,0,0
+2018/10/23 17:50:37.707,1981,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:50:39.234,493,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:39.225,503,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:39.728,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:38.737,1431,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:50:36.677,3521,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,22326,1121,10,10,0,0,0
+2018/10/23 17:50:38.216,1991,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:39.246,978,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:39.604,639,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:38.746,1914,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69580,399,10,10,0,0,0
+2018/10/23 17:50:39.689,998,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:40.688,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:37.752,2968,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:40.169,581,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:50:40.750,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:39.728,1473,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:50:41.202,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:40.224,1002,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:40.660,573,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:40.199,1045,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21133,612,10,10,0,0,0
+2018/10/23 17:50:41.244,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-5,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:40.243,1424,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:40.208,1475,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:40.752,989,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:40.691,1086,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:41.203,669,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:41.234,709,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:39.729,2284,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:41.226,1009,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:50:42.236,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:41.741,546,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69580,399,10,10,0,0,0
+2018/10/23 17:50:40.720,1628,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:50:41.668,1107,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:42.237,959,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:41.944,1281,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:50:41.778,1450,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:41.873,1471,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,69578,399,10,10,0,0,0
+2018/10/23 17:50:42.287,1380,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:42.349,1334,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:43.685,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:42.775,929,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:41.245,2908,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:42.014,2159,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:41.684,2568,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:50:43.227,1043,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:43.196,1114,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69666,399,10,10,0,0,0
+2018/10/23 17:50:43.668,1008,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:43.344,1345,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:43.685,1010,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:43.228,1496,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22314,1115,10,10,0,0,0
+2018/10/23 17:50:43.705,1472,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:45.177,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:44.725,502,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,606,10,10,0,1,0
+2018/10/23 17:50:45.228,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-2,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:44.270,979,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:50:45.250,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-10,text,true,,20521,0,10,10,0,0,0
+2018/10/23 17:50:44.253,1430,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:50:45.684,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-8,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:44.676,1028,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:44.689,1032,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:44.310,1430,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:45.179,1011,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:44.153,2051,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:44.697,1519,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:44.173,2048,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22318,1117,10,10,0,2,0
+2018/10/23 17:50:45.704,522,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,605,10,10,0,1,0
+2018/10/23 17:50:45.685,1001,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:45.229,1479,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:45.722,994,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:50:45.251,1499,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12988,1068,10,10,0,2,0
+2018/10/23 17:50:45.740,1433,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:50:46.227,1073,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:47.302,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:46.191,1154,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69563,399,10,10,0,0,0
+2018/10/23 17:50:46.204,1345,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,22314,1115,10,10,0,0,0
+2018/10/23 17:50:47.174,539,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:50:46.223,1812,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:50:48.036,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:47.715,496,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:46.716,1506,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:50:46.709,1608,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,69559,399,10,10,0,0,0
+2018/10/23 17:50:46.686,1945,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,69561,399,10,10,0,2,0
+2018/10/23 17:50:46.752,1894,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:47.346,1350,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:50:48.211,533,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:48.745,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:48.224,545,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:48.770,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-4,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:47.550,1633,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:50:49.183,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-5,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:47.303,1882,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:48.037,1184,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:46.217,3020,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:48.746,499,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:48.634,1101,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:48.319,1419,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:48.696,1490,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,586,10,10,0,1,0
+2018/10/23 17:50:48.770,1420,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:49.739,480,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:50:49.184,1040,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:48.647,1611,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:50:49.238,1442,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:50.681,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:50.187,549,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:50:50.220,524,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,11959,602,10,10,0,1,0
+2018/10/23 17:50:49.245,1605,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69561,399,10,10,0,0,0
+2018/10/23 17:50:49.221,1954,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:49.735,1446,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:50:50.850,777,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:50:50.259,1392,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:50:51.651,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20635,0,10,10,0,0,0
+2018/10/23 17:50:49.185,2678,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:50.190,1848,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,69491,399,10,10,0,1,0
+2018/10/23 17:50:51.181,1142,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:50:50.745,1583,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:50.736,1617,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,607,10,10,0,0,0
+2018/10/23 17:50:50.224,2151,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:51.176,1619,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:51.628,1196,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:51.652,1250,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:52.328,661,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12645,824,10,10,0,1,0
+2018/10/23 17:50:52.990,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:50.682,2508,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:52.039,1160,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:50:52.324,929,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:52.353,903,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:50:53.257,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:52.825,867,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:50:52.796,931,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:53.728,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:51.864,1956,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:50:52.903,1041,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69610,399,10,10,0,0,0
+2018/10/23 17:50:53.200,1008,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12392,582,10,10,0,0,0
+2018/10/23 17:50:53.692,570,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:52.376,1944,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:53.820,855,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21133,608,10,10,0,2,0
+2018/10/23 17:50:54.677,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:50:53.945,762,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,574,10,10,0,0,0
+2018/10/23 17:50:53.253,1472,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:54.725,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:52.991,1734,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:53.258,1498,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:54.321,861,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21133,610,10,10,0,0,0
+2018/10/23 17:50:55.182,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:50:53.191,1996,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:54.262,942,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:50:55.204,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:50:54.209,1003,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:50:54.707,990,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,588,10,10,0,0,0
+2018/10/23 17:50:54.678,1021,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:55.205,565,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:50:55.212,955,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12346,603,10,10,0,0,0
+2018/10/23 17:50:55.697,522,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,608,10,10,0,0,0
+2018/10/23 17:50:53.728,2512,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:54.758,1540,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69531,399,10,10,0,0,0
+2018/10/23 17:50:55.184,1526,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:55.187,1558,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22322,1119,10,10,0,0,0
+2018/10/23 17:50:54.726,2061,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:55.771,1131,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69533,399,10,10,0,1,0
+2018/10/23 17:50:55.699,1431,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69533,399,10,10,0,0,0
+2018/10/23 17:50:54.727,2448,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:56.219,992,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,609,10,10,0,2,0
+2018/10/23 17:50:56.746,520,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:50:57.267,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-3,text,true,,20525,0,10,10,0,0,0
+2018/10/23 17:50:56.168,1102,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:50:57.270,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:56.903,856,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:50:56.299,1501,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:50:56.710,1173,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69533,399,10,10,0,0,0
+2018/10/23 17:50:56.787,1391,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:57.176,1024,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:50:56.241,2001,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:50:57.130,1127,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:50:57.883,800,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,574,10,10,0,0,0
+2018/10/23 17:50:57.759,971,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:50:57.800,970,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,584,10,10,0,1,0
+2018/10/23 17:50:57.213,1616,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,830,10,10,0,0,0
+2018/10/23 17:50:58.830,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20629,0,10,10,0,0,0
+2018/10/23 17:50:58.731,478,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:50:57.269,1941,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:58.200,1028,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:50:59.228,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:50:58.257,1098,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:50:58.683,881,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,588,10,10,0,1,0
+2018/10/23 17:50:58.831,843,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:50:58.771,927,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,604,10,10,0,1,0
+2018/10/23 17:50:57.271,2446,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:59.699,488,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:50:59.209,978,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:50:58.243,2037,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:50:58.179,2109,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:51:00.189,510,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:51:00.699,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-1,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:50:59.565,1144,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,608,10,10,0,1,0
+2018/10/23 17:50:59.356,1376,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:51:00.281,940,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:51:01.222,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:00.187,1045,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,826,10,10,0,1,0
+2018/10/23 17:51:01.233,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:51:00.289,949,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,610,10,10,0,0,0
+2018/10/23 17:51:01.239,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:00.701,968,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:50:59.717,1993,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,2,0
+2018/10/23 17:50:59.210,2507,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:50:59.229,2497,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:50:59.674,2137,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69888,399,10,10,0,1,0
+2018/10/23 17:51:00.732,1197,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:51:00.710,1407,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,609,10,10,0,0,0
+2018/10/23 17:51:01.234,1495,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:51:02.117,665,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,830,10,10,0,1,0
+2018/10/23 17:51:02.783,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:51:01.812,1370,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:51:01.930,1266,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:51:03.196,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-6,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:51:01.671,1529,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:51:02.732,621,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69890,399,10,10,0,1,0
+2018/10/23 17:51:01.222,2438,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:51:01.239,2447,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:51:01.717,1974,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:51:01.712,2492,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22318,1117,10,10,0,0,0
+2018/10/23 17:51:01.726,2502,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:51:03.182,1481,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:51:03.197,1489,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:51:02.784,1924,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:51:04.664,469,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:51:03.354,1826,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:51:05.134,406,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:51:05.180,524,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:51:03.691,2015,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21133,608,10,10,0,2,0
+2018/10/23 17:51:05.708,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20633,0,10,10,0,0,0
+2018/10/23 17:51:03.200,2570,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,22314,1115,10,10,0,1,0
+2018/10/23 17:51:03.662,2558,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:51:04.204,2026,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,608,10,10,0,1,0
+2018/10/23 17:51:06.231,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:03.689,2545,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:51:05.771,470,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21133,606,10,10,0,0,0
+2018/10/23 17:51:06.241,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-1,text,true,,20634,0,10,10,0,0,0
+2018/10/23 17:51:05.541,1258,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12645,824,10,10,0,0,0
+2018/10/23 17:51:06.800,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-10,text,true,,20629,0,10,10,0,0,0
+2018/10/23 17:51:04.708,2127,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,69694,399,10,10,0,0,0
+2018/10/23 17:51:04.687,2396,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,69692,399,10,10,0,0,0
+2018/10/23 17:51:05.704,1447,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:51:05.709,1493,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:51:06.220,1009,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,22330,1123,10,10,0,1,0
+2018/10/23 17:51:06.807,487,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,27322,377,10,10,0,2,0
+2018/10/23 17:51:06.243,1426,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,27322,377,10,10,0,1,0
+2018/10/23 17:51:04.229,3458,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,22322,1119,10,10,0,1,0
+2018/10/23 17:51:06.835,912,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,21105,572,10,10,0,1,0
+2018/10/23 17:51:07.151,606,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:51:06.232,1978,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12988,1068,10,10,0,-1,0
+2018/10/23 17:51:07.689,560,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,21133,610,10,10,0,1,0
+2018/10/23 17:51:08.250,0,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-2,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:07.084,1167,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,21105,570,10,10,0,0,0
+2018/10/23 17:51:07.203,1230,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,69694,399,10,10,0,1,0
+2018/10/23 17:51:07.231,1239,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,21133,614,10,10,0,0,0
+2018/10/23 17:51:08.471,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-7,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:07.297,1523,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,69692,399,10,10,0,0,0
+2018/10/23 17:51:07.749,1417,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:51:08.435,803,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,21105,572,10,10,0,0,0
+2018/10/23 17:51:07.671,1624,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,69690,399,10,10,0,1,0
+2018/10/23 17:51:08.253,1410,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:51:09.239,480,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12392,586,10,10,0,0,0
+2018/10/23 17:51:08.473,1252,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:51:08.287,1447,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12988,1068,10,10,0,0,0
+2018/10/23 17:51:06.234,3500,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:51:07.758,1985,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:51:09.743,1,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-9,text,true,,20628,0,10,10,0,0,0
+2018/10/23 17:51:08.820,1368,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,21105,570,10,10,0,1,0
+2018/10/23 17:51:09.296,947,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,21105,568,10,10,0,1,0
+2018/10/23 17:51:09.719,529,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:51:08.210,2044,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:51:09.663,1007,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:51:09.166,1507,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,11959,606,10,10,0,0,0
+2018/10/23 17:51:09.745,1038,navigateToApp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:51:09.736,1054,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:51:10.790,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-8,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:10.245,932,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12392,582,10,10,0,1,0
+2018/10/23 17:51:10.248,944,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:51:10.189,1037,navigateToLogin,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12392,584,10,10,0,0,0
+2018/10/23 17:51:10.673,989,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12346,607,10,10,0,1,0
+2018/10/23 17:51:09.734,1932,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-2,,true,,12763,1083,10,10,0,1,0
+2018/10/23 17:51:10.671,1043,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12346,605,10,10,0,4,0
+2018/10/23 17:51:09.726,2010,navigateToSettings,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-7,,true,,12763,1083,10,10,0,0,0
+2018/10/23 17:51:10.783,1057,navigateToDhaka,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,69877,399,10,10,0,1,0
+2018/10/23 17:51:11.178,986,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,11959,602,10,10,0,0,0
+2018/10/23 17:51:10.254,1933,logout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,22318,1117,10,10,0,1,0
+2018/10/23 17:51:10.791,1433,navigateToDashboard,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-8,,true,,12988,1068,10,10,0,1,0
+2018/10/23 17:51:11.193,1074,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-3,,true,,12645,828,10,10,0,1,0
+2018/10/23 17:51:12.267,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-3,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:51:11.226,1444,chooseOptions,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,11959,604,10,10,0,0,0
+2018/10/23 17:51:12.188,568,verifyLogout,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-4,,true,,21133,608,10,10,0,0,0
+2018/10/23 17:51:12.755,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-4,text,true,,20526,0,10,10,0,0,0
+2018/10/23 17:51:12.164,602,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-1,,true,,12346,603,10,10,0,1,0
+2018/10/23 17:51:11.663,1232,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-5,,true,,12645,828,10,10,0,0,0
+2018/10/23 17:51:12.894,0,-- Executing TC001  -- Keywords: navigateToApp;navigateToDhaka;changeLanguage;navigateToLogin;chooseOptions;SignUpUsingEmail;signUp,200,OK,Execution Engine 1-5,text,true,,20627,0,10,10,0,0,0
+2018/10/23 17:51:11.841,1350,changeLanguage,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-9,,true,,21105,568,10,10,0,0,0
+2018/10/23 17:51:12.670,546,SignUpUsingEmail,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-10,,true,,12346,605,10,10,0,0,0
+2018/10/23 17:51:11.718,1565,signUp,200,"Number of samples in transaction : 1, number of failing samples : 0",Execution Engine 1-6,,true,,12645,826,10,10,0,0,0
+2018/10/23 17:51:13.282,1,-- Executing TC002  -- Keywords: navigateToDashboard;navigateToSettings;logout;verifyLogout,200,OK,Execution Engine 1-6,text,true,,20520,0,10,10,0,0,0
+2018/10/23 17:51:12.899,777,navigateToApp,200,,Execution Engine 1-5,,true,,27322,377,10,10,0,0,0
+2018/10/23 17:51:12.268,1416,navigateToApp,200,,Execution Engine 1-3,,true,,27322,377,9,9,0,0,0
+2018/10/23 17:51:11.736,2000,logout,200,,Execution Engine 1-7,,true,,22314,1115,8,8,0,0,0
+2018/10/23 17:51:11.667,2075,logout,200,,Execution Engine 1-2,,true,,22318,1117,7,7,0,0,0
+2018/10/23 17:51:12.756,1418,navigateToDashboard,200,,Execution Engine 1-4,,true,,12988,1068,6,6,0,0,0
+2018/10/23 17:51:12.226,1988,navigateToSettings,200,,Execution Engine 1-8,,true,,12763,1083,5,5,0,0,0
+2018/10/23 17:51:12.766,1544,signUp,200,,Execution Engine 1-1,,true,,12645,824,4,4,0,0,0
+2018/10/23 17:51:13.283,1555,navigateToDashboard,200,,Execution Engine 1-6,,true,,12988,1068,3,3,0,0,0
+2018/10/23 17:51:13.217,1642,signUp,200,,Execution Engine 1-10,,true,,12645,826,2,2,0,0,0
+2018/10/23 17:51:13.190,1686,navigateToLogin,200,,Execution Engine 1-9,,true,,12392,582,1,1,0,0,0
